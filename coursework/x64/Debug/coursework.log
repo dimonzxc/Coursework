@@ -1,0 +1,14 @@
+﻿  coursework.cpp
+  cpp1.cpp
+C:\Users\Дмитрий\Downloads\coursework-main\coursework\cpp1.cpp(181,31): warning C4018: <=: несоответствие типов со знаком и без знака
+  cpp2.cpp
+C:\Users\Дмитрий\Downloads\coursework-main\coursework\cpp2.cpp(35,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Дмитрий\Downloads\coursework-main\coursework\cpp2.cpp(310,26): warning C4305: инициализация: усечение из "double" в "float"
+  cpp3.cpp
+C:\Users\Дмитрий\Downloads\coursework-main\coursework\cpp3.cpp(45,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  cpp4.cpp
+C:\Users\Дмитрий\Downloads\coursework-main\coursework\cpp4.cpp(239,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Дмитрий\Downloads\coursework-main\coursework\cpp4.cpp(265,14): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Дмитрий\Downloads\coursework-main\coursework\cpp4.cpp(288,14): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  coursework.vcxproj -> C:\Users\Дмитрий\Downloads\coursework-main\x64\Debug\coursework.exe
